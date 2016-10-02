@@ -1,0 +1,26 @@
+body{
+	background: #F5F3E2;
+}
+.titulo{
+	color: #FACC2E;
+	text-align: center;
+	font-family: 'Courgette', cursive;
+	font-size: 50px;
+}
+.sub-titulo{
+	text-align: center;
+	font-family: 'Tangerine', cursive;
+	font-size: 2em;
+}
+.parrafo{
+	font-family: "Arial";
+	padding-top: 8px;
+	text-align: justify;
+	color: #886A08;
+}
+.menu li{
+	list-style: none;
+	text-align: center;
+	padding-top: 25px;
+	
+}
